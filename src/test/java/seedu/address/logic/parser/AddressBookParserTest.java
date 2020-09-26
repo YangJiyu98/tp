@@ -96,7 +96,8 @@ public class AddressBookParserTest {
         final Remark remark = new Remark("Some remark.");
         RemarkCommand command = (RemarkCommand) parser.parseCommand(RemarkCommand.COMMAND_WORD + " "
                 + INDEX_FIRST_PERSON.getOneBased() + " " + PREFIX_REMARK + remark.value);
-        assertEquals(new RemarkCommand(INDEX_FIRST_PERSON, remark), command);    }
+        assertEquals(new RemarkCommand(INDEX_FIRST_PERSON, remark), command);
+    }
 
     @Test
     public void parseCommand_unrecognisedInput_throwsParseException() {
