@@ -51,7 +51,8 @@ can get your German revision done quickly and effectively.
    ![Ui](images/Ui.png)
 
 1. Type the command in the command box and press Enter to execute it. e.g. typing **`help`** and pressing Enter will open the help window.<br>
-  
+
+<div style="page-break-after: always;"></div>
 ## <a name="cucmds"></a>2. Commonly Used Commands
   
    Here are some example commands you can try:
