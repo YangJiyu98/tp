@@ -53,6 +53,7 @@ can get your German revision done quickly and effectively.
 1. Type the command in the command box and press Enter to execute it. e.g. typing **`help`** and pressing Enter will open the help window.<br>
 
 <div style="page-break-after: always;"></div>
+
 ## <a name="cucmds"></a>2. Commonly Used Commands
   
    Here are some example commands you can try:
@@ -357,6 +358,7 @@ Format: `exit`
 1. Place the `glossary.JSON` file in the `data` folder of the ForgetfulNUS home folder in your other computer.
 
 --------------------------------------------------------------------------------------------------------------------
+<div style="page-break-after: always;"></div>
 
 ## <a name="cmdsum"></a>5. Command Summary
 
@@ -369,6 +371,11 @@ Action | Format, Examples
 **Start Random Quiz** | `random <NUMBER>` <br> e.g., `random 5`
 **Next phrase** | `next`
 **Try an answer** | `try <ATTEMPT>` <br> e.g., `try Tuesday`
+
+<div style="page-break-after: always;"></div>
+
+Action | Format, Examples
+--------|------------------
 **End Quiz** | `end`
 **View Past Scores** | `scores`
 **Reset Scores** | `reset scores`
